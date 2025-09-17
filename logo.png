@@ -85,6 +85,46 @@
     <p>MyNaitwok Channels (MNC) is a full-service digital marketing & media agency helping businesses grow through innovative storytelling, strategic content, and impactful advertising. We offer end-to-end services in Digital Advertising, Media Production, Branding, PR, Television Placements, and Print Media Campaigns.</p>
   </section>
 
+<!-- Vision, Mission, and Core Values Section -->
+<section id="about-mnc" style="padding: 60px; background: #f4f4f9; text-align: center; font-family: Arial, sans-serif;">
+  <div class="container">
+    <h2 style="color:#1a237e; margin-bottom:30px; font-size:32px; font-weight:bold;">
+      Our Vision, Mission & Core Values
+    </h2>
+    
+    <!-- Vision -->
+    <div style="margin-bottom:40px;">
+      <h3 style="color:#ff6f00; font-size:24px;">Our Vision</h3>
+      <p style="max-width:800px; margin:0 auto; font-size:18px; line-height:1.8; color:#000;">
+        To be Africa’s leading innovative media and digital communications company, 
+        transforming stories into impactful solutions that connect people, brands, and communities.
+      </p>
+    </div>
+
+    <!-- Mission -->
+    <div style="margin-bottom:40px;">
+      <h3 style="color:#4a148c; font-size:24px;">Our Mission</h3>
+      <p style="max-width:800px; margin:0 auto; font-size:18px; line-height:1.8; color:#000;">
+        To deliver top-quality journalism, digital marketing, PR management, and creative 
+        media solutions that empower brands, inspire audiences, and drive positive change.
+      </p>
+    </div>
+
+    <!-- Core Values -->
+    <div>
+      <h3 style="color:#1a237e; font-size:24px;">Our Core Values</h3>
+      <ul style="list-style:none; padding:0; font-size:18px; line-height:1.8; color:#000;">
+        <li>🔹 <b style="color:#ff6f00;">Integrity</b> – We uphold truth and transparency in all we do.</li>
+        <li>🔹 <b style="color:#1a237e;">Creativity</b> – We bring fresh, innovative ideas to every project.</li>
+        <li>🔹 <b style="color:#4a148c;">Excellence</b> – We deliver nothing short of the best for our clients.</li>
+        <li>🔹 <b style="color:#000;">Collaboration</b> – We grow by working hand-in-hand with our partners and communities.</li>
+        <li>🔹 <b style="color:#2e7d32;">Impact</b> – We focus on solutions that leave lasting value.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+
   <section>
     <h2>Our Services</h2>
     <div class="grid">
@@ -109,14 +149,6 @@
         <p>Press, Reputation Management, Influencer Strategy & Management</p>
       </div>
     </div>
-  </section>
-
-  <section>
-    <h2>Sample Projects</h2>
-    <ul>
-      <li><strong>Women in Renewable:</strong> Clean Cookstove Campaign (10k+ reach)</li>
-      <li><strong>Smiling Simon Greenbuild Foundation:</strong> Sustainability advocacy & media engagement</li>
-    </ul>
   </section>
 
   <section>
